@@ -348,3 +348,4 @@ func main() {
 
  fmt.Println("Pipeline de dados finalizado.")
 }
+```
